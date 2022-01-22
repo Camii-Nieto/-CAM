@@ -14,7 +14,7 @@ Consultas a la base de datos con Axios
 
 ### Clonar el siguiente repositorio:
 
-[Link del repo]
+[https://github.com/Camii-Nieto/-CAM-Front.git]
 
 ### Descargar dependencias
 
